@@ -1,0 +1,29 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore dependencies
+node_modules/
+bower_components/
+*.jar
+*.war
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*~
+*.swp
+*.swo
+*.bak
+
+# Ignore env files
+.env
